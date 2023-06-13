@@ -1,0 +1,78 @@
+.zenbu {
+    background-color: #1e1f21;
+    
+}
+
+.usagi_wide {
+    background-color: #28292d;
+}
+
+.usagi_narrow {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+}
+
+.usagi_head_bar {
+	 color: #83a1b9;
+    width: 1000px;
+    height: 20px;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+
+}
+
+.usagi_head_illust {
+    width: 1000px;
+    height: 128px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.usagi_head_menu ul li {
+	display: inline-block;
+	text-align: left;
+	margin-right: 10px;
+	font-size: 56px;
+	background-color: #28292d;
+   a:visited {color:#FFFFFF;}
+}
+
+.usagi_body {
+    background-color: #292a2e;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: 4px solid #8598a9;
+    color: white;
+    width: 1000px;
+}
+
+.usagi_foot {
+    width: 1000px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    color: black;
+}
+
+
+a:link {
+
+	color: #83a1b9
+}
+	
+a:visited {
+	color: #83a1b9
+}
+
+
+
+{
+	color: #83a1b9
+}
